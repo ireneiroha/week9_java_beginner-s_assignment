@@ -23,10 +23,6 @@ Welcome to **Java Beginners Guide** — a simple starter repository to help you 
 │ └── MethodsExample.java
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛠️ Prerequisites
